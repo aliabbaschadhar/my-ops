@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
     - name: next-argocd
-      image: aliabbaschadhar003/shaka-app:c6908bf1683974e8a13260bef30fe0bb47462947
+      image: aliabbaschadhar003/shaka-app:2d8d02001b864101c3ddee3fee5e95fc410ada7b
       ports:
       - containerPort: 8080
