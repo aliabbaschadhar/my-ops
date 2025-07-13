@@ -1,3 +1,3 @@
 # my-ops
 
-All kubernates manifest file will be here
+All kubernetes manifest file will be here
