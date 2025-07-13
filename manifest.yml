@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: next-argocd
+spec:
+  containers:
+    - name: next-argocd
+      image: aliabbaschadhar003/shaka-app:c6908bf1683974e8a13260bef30fe0bb47462947
+      ports:
+      - containerPort: 8080
